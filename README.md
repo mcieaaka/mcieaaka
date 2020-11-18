@@ -7,9 +7,9 @@
 - 😄 Pronouns: ...
 Here are some ideas to get you started:-->
 
- -🔭 I’m currently working on Web Development
- -🌱 I’m currently learning React JS and C++
- -💬 Ask me about Node, Express, MongoDB
- -📫 How to reach me: harshit0300@gmail.com
- -⚡ Fun fact: Calculus is better than Algebra. Period
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning React JS and C++
+- 💬 Ask me about Node, Express, MongoDB
+- 📫 How to reach me: harshit0300@gmail.com
+- ⚡ Fun fact: Calculus is better than Algebra. Period
 
