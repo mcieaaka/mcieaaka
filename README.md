@@ -13,5 +13,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: harshit0300@gmail.com
 - ⚡ Fun fact: Calculus is better than Algebra. Period
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcieaaka&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcieaaka&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcieaaka&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcieaaka&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
