@@ -13,3 +13,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: harshit0300@gmail.com
 - ⚡ Fun fact: Calculus is better than Algebra. Period
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcieaaka&theme=tokyonight)
