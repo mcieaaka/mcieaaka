@@ -14,4 +14,4 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Calculus is better than Algebra. Period
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcieaaka&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcieaaka&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcieaaka&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
