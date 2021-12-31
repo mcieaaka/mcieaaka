@@ -7,9 +7,9 @@
 - 😄 Pronouns: ...
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React JS and C++
-- 💬 Ask me about Node, Express, MongoDB
+- 🔭 I’m currently working on Web Development, Machine Learning and Blockchain
+- 🌱 I’m currently learning Solidity and DSA(placements🥴)
+- 💬 Ask me about Node, Express, MongoDB, SQL, PHP, Matlab, ML, NFTs and everything else!
 - 📫 How to reach me: harshit0300@gmail.com
 - ⚡ Fun fact: Calculus is better than Algebra. Period
 
